@@ -1,3 +1,5 @@
+package Question1;
+
 public class Pinwheel implements Turner{
     @Override
     public void turner() {

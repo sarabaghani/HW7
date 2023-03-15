@@ -1,3 +1,5 @@
+package Question1;
+
 public class Page implements Turner{
     @Override
     public void turner() {
