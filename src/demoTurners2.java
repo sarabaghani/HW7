@@ -1,4 +1,4 @@
-public class DemoTurners {
+public class demoTurners2 {
     public static void main(String[] args) {
         Leaf leaf = new Leaf();
         System.out.print(leaf.getClass().getSimpleName()+": ");
